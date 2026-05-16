@@ -47,8 +47,8 @@ const Bennar = () => {
                                 </button>
                                 <button className="group hover:shadow-[0_0_15px_rgba(255,255,255,0.6)] border font-bold font-lato border-[#00d3f3bb] text-[#00D3F3] px-6 py-3 rounded-full transition w-full sm:w-auto">
                                     <a
-                                        href="/AL-MANSUR_CV.pdf"
-                                        download="AL-MANSUR_CV.pdf"
+                                        href="/Md.Humaun_CV.pdf"
+                                        download="Md.Humaun_CV.pdf"
                                         className="flex items-center justify-center gap-2 w-full"
                                     >
                                         Download CV <FaCloudDownloadAlt className='inline-block' />
