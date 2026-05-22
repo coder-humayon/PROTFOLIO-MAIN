@@ -49,7 +49,7 @@ const Footer = () => {
             <div className="w-full lg:w-4/12">
               <h3 className='text-[12px] lg:text-[14px] text-[#00D3F3]'>GET IN TOUCH</h3>
               <p className='text-[12px] lg:text-[14px] text-gray-500 flex gap-2 pt-4 items-center'>
-                <FaGithub />hmmansur050@gmail.com
+                <FaGithub />humayonk474@gmail.com
               </p>
               <div className="flex pt-6 gap-4 flex-wrap lg:flex-nowrap">
                 <button className="inline-flex items-center gap-2 p-2 border bg-[#091B24] hover:bg-[#00D3F3] ease-in-out duration-300 text-[#FFFFFF] rounded-2xl hover:border-[#00D3F3] hover:shadow-[0_0_30px_rgba(0,211,243,0.15)]">
