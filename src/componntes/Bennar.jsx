@@ -35,7 +35,7 @@ const Bennar = () => {
                                 I build <span className="bg-linear-to-r from-green-300 via-blue-400 to-purple-500 bg-clip-text text-transparent font-bold">fast, clean,</span> and scalable web interfaces with React.
                                 <DiReact className='animate-spin [animation-duration:3s] inline-block text-[40px] sm:text-[50px] text-[#61DAFB]' />
                             </p>
-                            <p className='font-lato pt-4 text-[#667766c5] text-[16px] sm:text-[18px] max-w-md mx-auto md:mx-0'>
+                            <p className='font-lato pt-4 text-[#7da37dc5] text-[16px] sm:text-[18px] max-w-md mx-auto md:mx-0'>
                                 Frontend Developer specializing in React, Tailwind CSS, and modern JavaScript. I create
                                 component-based architectures that are performant, maintainable, and built for production.
                             </p>
