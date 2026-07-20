@@ -1,15 +1,14 @@
 import React from "react";
 import Container from "./Container";
 import { FaEnvelope, FaGithub, FaLinkedinIn } from "react-icons/fa";
-import useScrollReveal from "../hooks/useScrollReveal"; // 👈 add this
+import useScrollReveal from "../hooks/useScrollReveal"; 
 
 const Contract = () => {
 
-  const [ref, visible] = useScrollReveal(); // 👈 add this
-
+  const [ref, visible] = useScrollReveal();
   return (
     <section
-      id="contact" className=" bg-linear-to-r from-slate-900 via-slate-800 to-slate-900 "
+      id="contact" className=" bg-gradient-to-br from-neutral-950 via-slate-900 to-indigo-950 relative overflow-hidden"
      
     >
       <Container>

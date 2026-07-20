@@ -12,7 +12,7 @@ const Bennar = () => {
     const [ref, visible] = useScrollReveal();
 
     return (
-        <section id='bennar' className='bg-linear-to-r from-slate-900 via-slate-800 to-slate-900 relative overflow-hidden'>
+        <section id='bennar' className='bg-gradient-to-br from-neutral-950 via-slate-900 to-indigo-950 relative overflow-hidden'>
             <div ref={ref} className={`transition-all duration-1000 ease-in-out ${visible ? "opacity-100 translate-y-0 scale-100" : "opacity-0 translate-y-16 scale-95"}`}>
                 {/* Background effects */}
                 <div className="absolute rotate-40 -inset-5 pointer-events-none">

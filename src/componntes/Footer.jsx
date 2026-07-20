@@ -7,7 +7,7 @@ import useScrollReveal from "../hooks/useScrollReveal";
 const Footer = () => {
   const [ref, visible] = useScrollReveal();
   return (
-    <footer id='footer' className='py-10 shadow-lg bg-linear-to-br from-slate-800 via-slate-900 to-slate-800 text-white overflow-hidden'>
+    <footer id='footer' className='py-10 shadow-lg bg-gradient-to-br from-neutral-950 via-slate-900 to-indigo-950 text-white overflow-hidden'>
       <div ref={ref} className={` ${visible
           ? "opacity-100 translate-y-0 scale-100 duration-1000 ease-in-out"
           : "opacity-0 translate-y-16 scale-95"}`}>
