@@ -17,10 +17,10 @@ function App() {
    <div className="">
     <Navbar/>
     <Bennar/>
-    <About/>
-    <Skills/>
     <Portfolio/>
+    <Skills/>
     <Contract/>
+    <About/>
     <Footer/>
    </div>
     </>
